@@ -30,3 +30,6 @@ C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejem
 C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.csproj.GenerateResource.Cache
 C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.productos.resources
 C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.ejemplo.resources
+C:\Users\Mis documentos\Desktop\temporal\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\bin\Debug\VaidrollTeamWindowsFormsApp1.exe.config
+C:\Users\Mis documentos\Desktop\temporal\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.exe
+C:\Users\Mis documentos\Desktop\temporal\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.pdb
