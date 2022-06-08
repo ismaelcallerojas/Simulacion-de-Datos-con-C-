@@ -1,0 +1,32 @@
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\bin\Debug\VaidrollTeamWindowsFormsApp1.exe.config
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\bin\Debug\VaidrollTeamWindowsFormsApp1.exe
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\bin\Debug\VaidrollTeamWindowsFormsApp1.pdb
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.Form1.resources
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.Properties.Resources.resources
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.exe
+C:\Users\4M4D3US\Desktop\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.pdb
+C:\Users\Mis Documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\bin\Debug\VaidrollTeamWindowsFormsApp1.exe.config
+C:\Users\Mis Documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.exe
+C:\Users\Mis Documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.pdb
+C:\Users\Mis Documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\bin\Debug\VaidrollTeamWindowsFormsApp1.exe
+C:\Users\Mis Documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\bin\Debug\VaidrollTeamWindowsFormsApp1.pdb
+C:\Users\Mis Documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Mis Documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.Form1.resources
+C:\Users\Mis Documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mis Documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\VaidrollTeamWindowsFormsApp1\obj\Debug\VaidrollTeamWindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\bin\Debug\VaidrollTeamWindowsFormsApp1.exe.config
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.exe
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.pdb
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\bin\Debug\VaidrollTeamWindowsFormsApp1.exe
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\bin\Debug\VaidrollTeamWindowsFormsApp1.pdb
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.empleados.resources
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.Form1.resources
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.principal.resources
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.productos.resources
+C:\Users\Mis documentos\Desktop\SimularRegistrarDatos\SimularRegistrarDatos\Ejemplo\obj\Debug\VaidrollTeamWindowsFormsApp1.ejemplo.resources
